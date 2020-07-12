@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: a394daf98205048e0b4d0277cbd40e17
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rounded Mgen+ 2cp
+  fontNames:
+  - Rounded Mgen+ 2cp
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6dfc2256584cc41859372ea11af9aa32, type: 3}
+  - {fileID: 12800000, guid: 57b652a63cd444a1891bc29b63e26252, type: 3}
+  - {fileID: 12800000, guid: 2b0044cd455c9448d8fa0c03c0acfc40, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
